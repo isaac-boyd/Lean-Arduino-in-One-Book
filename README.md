@@ -265,9 +265,9 @@ Setup:
 2. Insert the red wire into the 5v pin, the black pin into the GND pin and, the orange pin into digital pin 2. 
 Creating the Code:
 1. First, we will need to include the Servo library, to do that you will need to add 
-'''#include <Servo.h>''' what you are doing is including the servo library(Servo.h) so that you can use it. 
+```#include <Servo.h>``` what you are doing is including the servo library(Servo.h) so that you can use it. 
 2. Creating a variable, you are going to create a integer variable, to do that you will add 
-'''int myNumber'''
+```int myNumber```
 
 
 
