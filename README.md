@@ -59,6 +59,7 @@ Arduino [UNO R4 WiFi](https://store-usa.arduino.cc/products/uno-r4-wifi), $27.50
 2. Open Arduino Cloud by going to app.arduino.cc.
 3. Click "Create  New" then click "</> Sketch".
 Now it will bring you to the newly created sketch and it will display:
+```
 /*
 
 */
@@ -70,19 +71,21 @@ void setup() {
 void loop() {
     
 }
-
+```
 So now we will start coding! But first you will need to learn so basic syntax.
-1. A "//" is a note. Example: ```//This is a note.```
-2. A "/* */" is a note that can go for multiple lines. Example: /*this is another note.*/ 
+1. A ```//``` is a note. Example: ```//This is a note.```
+2. A ```/* */``` is a note that can go for multiple lines. Example: ```/*this is another note.*/``` 
 3. Void setup(){} is were you put all of the setup code. Example: 
 ```void setup(){
 pinMode(LED_BUILTIN, OUTPUT); //pinMode is a initializer for writing stuff to a pin. 
 }
-4. Void loop(){} is were you put all the code to do the stuff. Example:
+```
+4. ```Void loop(){}``` is were you put all the code to do the stuff. Example:
+```
 void loop() {
     digitalWrite(LED_BUILTIN, HIGH);//digitalWrite is where it writes stuff to a pin. digitalWrite(pin, value);
 }
-5. A delay() is what it sounds like. It puts a delay in the code. Example:
+6. A delay() is what it sounds like. It puts a delay in the code. Example:
 void loop() {
     digitalWrite(LED_BUILTIN, HIGH);// Put the led on.
     delay(1000);// Wait 1 second(delays go in milliseconds)
@@ -91,17 +94,6 @@ void loop() {
 }
 ```
 Now that you learned all that, let's make a complete code!
-
-
-
-
-
-
-
-
-
-
-
 ```
 /*
 Blinking LED
@@ -150,8 +142,6 @@ Error:
 ```
 As you can see it says "error: expected ';' before 'delay'" that means it needs a ";" before the delay, but that go for any thing. Now if we a the semicolon to fix the code it works, here's the fixed code: 
 
-
-
 ```
 /*
 Blinking LED
@@ -193,15 +183,6 @@ run/arduino/sketches/new_sketch_1746123215504/new_sketch_1746123215504.ino: In f
 
  As you can see again part of the error is error: expected ')' before ';' token saying to add a ) before a ;  an easy way to find were this error is that the line that is highlighted red.
 3. Misspelling, misspelling can be even harder to debug so here how to do it. Example: Code: 
-
-
-
-
-
-
-
-
-
 ```
 /*
 Blinking LED
