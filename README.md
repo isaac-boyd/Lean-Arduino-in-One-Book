@@ -1,56 +1,6 @@
    Table of Contents
-| Name | Page |
-|------|------|
-| Learning The Basic Syntax| 1|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1. Learning the Basic Syintax
+2. Learnig how to use Librarys and Variables
 
    ### Getting Started
 # What you need:
