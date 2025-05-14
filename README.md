@@ -51,7 +51,7 @@
 
 
 
-   ###Getting Started
+   ### Getting Started
 What you need:
 Arduino UNO R4 WiFi(https://store-usa.arduino.cc/products/uno-r4-wifi, $27.50)
 Setup:
@@ -256,7 +256,7 @@ delay(1000);
 
 
 
-###Learning how to use Libraries and Variables
+### Learning how to use Libraries and Variables
 What you need:
 Arduino UNO R4 WiFi.
 SG-90 Servo
