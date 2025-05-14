@@ -53,7 +53,7 @@
 
    ### Getting Started
 What you need:
-Arduino [UNO R4 WiFi]((https://store-usa.arduino.cc/products/uno-r4-wifi), $27.50)
+Arduino [UNO R4 WiFi](https://store-usa.arduino.cc/products/uno-r4-wifi), $27.50
 Setup:
 1. Create a Arduino account by going to arduino.cc and clicking "login".
 2. Open Arduino Cloud by going to app.arduino.cc.
