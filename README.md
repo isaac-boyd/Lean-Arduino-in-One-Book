@@ -72,7 +72,7 @@ void loop() {
 }
 
 So now we will start coding! But first you will need to learn so basic syntax.
-1. A "//" is a note. Example: \`\`\`//This is a note.\`\`\`
+1. A "//" is a note. Example: ```//This is a note.```
 2. A "/* */" is a note that can go for multiple lines. Example: /*this is another note.*/ 
 3. Void setup(){} is were you put all of the setup code. Example: 
 \`\`\`void setup(){
