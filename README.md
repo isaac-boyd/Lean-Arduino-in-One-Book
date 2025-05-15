@@ -1,11 +1,11 @@
-   Table of Contents
+   # Table of Contents
 1. Learning the Basic Syintax
 2. Learnig how to use Librarys and Variables
 
-   ### Getting Started
-# What you need:
+   # Getting Started
+### What you need:
 Arduino [UNO R4 WiFi](https://store-usa.arduino.cc/products/uno-r4-wifi), $27.50
-# Setup:
+### Setup:
 1. Create a Arduino account by going to arduino.cc and clicking "login".
 2. Open Arduino Cloud by going to app.arduino.cc.
 3. Click "Create  New" then click "</> Sketch".
@@ -61,7 +61,7 @@ digitalWrite(LED_BUILTIN, LOW);// Put the builtin led off.
 delay(1000);
 }
 ```
-# Upload:
+### Upload:
 Now plug your board into your computer via a USB-C cable. Next upload your code by clicking the upload button, at the bottom will be the console, When upload is clicked the console should the say Console Verifying then say Console Uploading.
 Basic Debugging:
 If you don't know what debugging is it's fixing error that are displayed in the console. 
@@ -188,11 +188,11 @@ delay(1000);
 
 
 
-### Learning how to use Libraries and Variables
-# What you need:
+# Learning how to use Libraries and Variables
+### What you need:
 Arduino UNO R4 WiFi.
 SG-90 Servo
-# Setup:
+### Setup:
 1. Create a new sketch.
 2. Insert the red wire into the 5v pin, the black pin into the GND pin and, the orange pin into digital pin 2. 
 Creating the Code:
