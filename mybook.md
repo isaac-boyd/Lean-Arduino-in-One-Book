@@ -200,8 +200,7 @@ Creating the Code:
 ```#include <Servo.h>``` what you are doing is including the servo library(Servo.h) so that you can use it. 
 2. Creating a variable, you are going to create a integer variable, to do that you will add 
 ```int myNumber```
-
-
+:smiley:
 
 
 
